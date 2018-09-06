@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: iSAFETY-Setup-1.0.2.exe
+    sha512: AOampiIeslgnbdPStA1IGQTYtw8PJlMuxDMn9HeGCfAHEVRDWgFQtBtMVpfHgjm3PrKRI3Ct9vSK7DB04lNArQ==
+    size: 41550440
+path: iSAFETY-Setup-1.0.2.exe
+sha512: AOampiIeslgnbdPStA1IGQTYtw8PJlMuxDMn9HeGCfAHEVRDWgFQtBtMVpfHgjm3PrKRI3Ct9vSK7DB04lNArQ==
+releaseDate: '2018-09-06T03:43:14.202Z'
