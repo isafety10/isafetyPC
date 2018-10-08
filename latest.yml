@@ -1,8 +1,8 @@
-version: 1.0.7
+version: 1.0.8
 files:
-  - url: isafety-setup-1.0.7.exe
-    sha512: WEntuoFHVDDjMC5SBaB3nxaD23rg9KbDgwLNdWaMRJS/qh32u/MqA6yRNy8h0l/nTkba7axCjo9eTd4IAYufeg==
-    size: 41551950
-path: isafety-setup-1.0.7.exe
-sha512: WEntuoFHVDDjMC5SBaB3nxaD23rg9KbDgwLNdWaMRJS/qh32u/MqA6yRNy8h0l/nTkba7axCjo9eTd4IAYufeg==
-releaseDate: '2018-09-09T03:26:12.629Z'
+  - url: isafety-setup-1.0.8.exe
+    sha512: K6TXN2QvDLbFKe6HbduMOvZfd1PgLUgZMIW8/R+tjqnwL6Th7XOBbSe0OsoOTuo3EthBzsFBDlOMfFXmhRRvxQ==
+    size: 41558552
+path: isafety-setup-1.0.8.exe
+sha512: K6TXN2QvDLbFKe6HbduMOvZfd1PgLUgZMIW8/R+tjqnwL6Th7XOBbSe0OsoOTuo3EthBzsFBDlOMfFXmhRRvxQ==
+releaseDate: '2018-10-08T01:47:36.048Z'
